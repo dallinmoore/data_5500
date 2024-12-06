@@ -1,0 +1,10 @@
+logan,garden city,39
+logan,brigham city,24
+logan,tremonton,23
+garden city,kemmerer,55
+kemmerer,little america,50
+kemmerer,evanston,51
+little america,evanston,64
+evanston,echo,35
+echo,
+echo,
